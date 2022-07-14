@@ -1,12 +1,12 @@
-Stream Graph
-STEM-AND-LEAF PLOTS
+stream Graph
+steam-and-leaf plots
 box-and-whisker plot
-Q-Q PLOTS
-SPLOM
-PARALLEL COORDINATES
-CHOROPLETH MAPS
-NODE-LINK DIAGRAMS
+Q-Q plots
+splom
+parallel coordinates
+choropleth maps
+node-link diagrams
 dendrogram
-ADJACENCY DIAGRAMS
+adjacency diagrams
 network layout
-FORCE-DIRECTED LAYOUTS
+force-directed layouts
