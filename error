@@ -1,0 +1,10 @@
+[Yesterday 17:48] Juan Incardona
+Error code
+DFExecutorUserError
+Troubleshooting guide
+ 
+Activity ID
+3c3229d0-c745-4eed-8480-f9523f447a1c
+Details
+at Source 'source1': java.lang.RuntimeException: java.lang.ClassNotFoundException: Class com.microsoft.dataflow.store.adlsgen2.ADLSGen2FileSystem not found;
+
